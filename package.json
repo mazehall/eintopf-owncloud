@@ -1,0 +1,14 @@
+{
+  "name": "eintopf-owncloud",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "sh ./start.sh",
+    "stop": "sh ./stop.sh"
+  },
+  "mazehall": true,
+  "eintopf": {
+    "name": "ownCloud",
+    "description": "ownCloud is a file sharing server that puts the control and security of your own data back into your hands."
+  },
+  "license": "MIT"
+}
